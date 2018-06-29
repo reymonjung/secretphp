@@ -103,7 +103,7 @@
 				<img src="assets/images/temp/bottom_bn03.png">
 				<figcaption style="position: absolute; width:188px; height: 40px; top: 0; bottom: 0; margin:auto; left: 3%;  color: #fff;">
 					<p style="margin-bottom:2%; text-align: left; font-size: 10px; line-height: 12px; text-align: left; ">
-						베트남 현지 대형 여행사와 특정 제휴하여<br>
+						필리핀 현지 대형 여행사와 특정 제휴하여<br>
 						가장 좋은 조건으로 안전하게 타사보다 <br>
 						무조건 저렴하게 견적 드립니다.
 					</p>
@@ -257,8 +257,8 @@
 
 	        <pre> 02. 본인이 작성한 글의 내용과 그에 대한 답변만 볼 수 있습니다.</pre>
 
-	        <pre> 03. 작성한 모든 내용은 시크릿베트남에 저장 됩니다.</pre>
+	        <pre> 03. 작성한 모든 내용은 시크릿필리핀에 저장 됩니다.</pre>
 
-	        <pre> 04. 기타 자세한 내용은 시크릿베트남 이용약관을 참조해 주세요.</pre>
+	        <pre> 04. 기타 자세한 내용은 시크릿필리핀 이용약관을 참조해 주세요.</pre>
 	</section>
 </div>

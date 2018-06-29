@@ -33,6 +33,7 @@ class Member_meta_model extends CB_Model
     function __construct()
     {
         parent::__construct();
+        
 
         check_cache_dir('member_meta');
     }

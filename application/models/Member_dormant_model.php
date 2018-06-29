@@ -27,6 +27,7 @@ class Member_dormant_model extends CB_Model
     function __construct()
     {
         parent::__construct();
+        
     }
 
 

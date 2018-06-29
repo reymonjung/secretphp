@@ -25,6 +25,7 @@ class Member_dormant_notify_model extends CB_Model
     function __construct()
     {
         parent::__construct();
+        
     }
 
 

@@ -33,6 +33,7 @@ class Member_extra_vars_model extends CB_Model
     function __construct()
     {
         parent::__construct();
+        
 
         check_cache_dir('member_extra_vars');
     }

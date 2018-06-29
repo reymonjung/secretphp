@@ -115,4 +115,6 @@ class Member_model extends CB_Model
 
         return $result;
     }
+
+    
 }

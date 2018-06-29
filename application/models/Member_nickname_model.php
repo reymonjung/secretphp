@@ -25,6 +25,7 @@ class Member_nickname_model extends CB_Model
     function __construct()
     {
         parent::__construct();
+        
     }
 
 

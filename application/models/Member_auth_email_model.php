@@ -25,5 +25,6 @@ class Member_auth_email_model extends CB_Model
     function __construct()
     {
         parent::__construct();
+        
     }
 }

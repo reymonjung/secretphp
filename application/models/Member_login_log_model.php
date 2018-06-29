@@ -25,6 +25,7 @@ class Member_login_log_model extends CB_Model
     function __construct()
     {
         parent::__construct();
+        
     }
 
 

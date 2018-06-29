@@ -25,5 +25,6 @@ class Member_certify_model extends CB_Model
     function __construct()
     {
         parent::__construct();
+        
     }
 }
